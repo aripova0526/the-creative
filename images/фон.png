@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<!-- saved from url=(0044)https://jakubgreziak.github.io/creativespsd/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Creatives PSD - psdfreebies.com</title>
+        <link rel="stylesheet" type="text/css" href="./фон_files/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="./фон_files/style.min.css">
+    </head>
+    <body>
+        <header class="header">
+            <div class="container">
+                <nav class="header-nav">
+                    <div class="header-nav-logo">
+                        <img src="./фон_files/logo.png" alt="Creaticve Agency">
+                    </div>
+                    <ul class="header-nav-icons">
+                        <li><a href="https://jakubgreziak.github.io/creativespsd/#" class="fa fa-facebook" target="_blank"></a></li>
+                        <li><a href="https://jakubgreziak.github.io/creativespsd/#" class="fa fa-twitter" target="_blank"></a></li>
+                        <li><a href="https://jakubgreziak.github.io/creativespsd/#" class="fa fa-skype" target="_blank"></a></li>
+                        <li><a href="https://jakubgreziak.github.io/creativespsd/#" class="fa fa-linkedin" target="_blank"></a></li>
+                    </ul>
+                    <ul class="header-nav-links">
+                        <li class="li-menu li-menu-home">
+                            <a href="https://jakubgreziak.github.io/creativespsd/#"><i class="fa fa-home"></i>Home</a>
+                        </li>
+                        <li class="li-menu li-menu-pages">
+                            <a href="https://jakubgreziak.github.io/creativespsd/#"><i class="fa fa-folder-open"></i>Pages</a>
+                        </li>
+                        <li class="li-menu li-menu-features">
+                            <a href="https://jakubgreziak.github.io/creativespsd/#"><i class="fa fa-rocket"></i>Features</a>
+                        </li>
+                        <li class="li-menu li-menu-extensions">
+                            <a href="https://jakubgreziak.github.io/creativespsd/#"><i class="fa fa-puzzle-piece"></i>Extensions</a>
+                        </li>
+                        <li class="li-menu li-menu-tutorials">
+                            <a href="https://jakubgreziak.github.io/creativespsd/#"><i class="fa fa-book"></i>Tutorials</a>
+                        </li>
+                        <li class="li-menu li-menu-contact">
+                            <a href="https://jakubgreziak.github.io/creativespsd/#"><i class="fa fa-map-marker"></i>Contact</a>
+                        </li>
+                    </ul>
+                </nav>
+                <div class="header-content">
+                    <h2>Creatives<small>Power by PSDfreebies.com</small></h2>
+                    <div class="header-content-scroll fa fa-angle-double-down"></div>
+                </div>
+            </div>
+        </header>
+        <section class="weare">
+            <div class="container">
+                <div class="weare-head">
+                    <h2>We Are An Awesome Agency</h2>
+                </div>
+                <div class="weare-content">
+                    <div class="singlebox">
+                        <div class="singlebox-circle bg-write"></div>
+                        <h3 class="singlebox-title">Feature one</h3>
+                        <p class="singlebox-text">Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec id elit non mi porta gravida at eget metus.</p>
+                    </div>
+                    <div class="singlebox">
+                        <div class="singlebox-circle bg-write"></div>
+                        <h3 class="singlebox-title">Feature two</h3>
+                        <p class="singlebox-text">Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec id elit non mi porta gravida at eget metus.</p>
+                    </div>
+                    <div class="singlebox ">
+                        <div class="singlebox-circle bg-search"></div>
+                        <h3 class="singlebox-title">Feature three</h3>
+                        <p class="singlebox-text">Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec id elit non mi porta gravida at eget metus.</p>
+                    </div>
+                    <div class="singlebox">
+                        <div class="singlebox-circle bg-say"></div>
+                        <h3 class="singlebox-title">Feature Four</h3>
+                        <p class="singlebox-text">Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec id elit non mi porta gravida at eget metus.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="articles">
+            <div class="articles-content articles-content-dark">
+                <div class="container">
+                    <div class="articles-content-inner">
+                        <div class="articles-content-text">
+                            <span>Jan 4, 2018 | In Culture</span>
+                            <h2>Akita Inu Dog</h2>
+                            <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
+                            <p>Donec ullamcorper nulla non metus auctor fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed posuere</p>
+                        </div>
+                        <div class="articles-content-photo">
+                            <img src="./фон_files/img-post1.png" alt="post1">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="articles-content articles-content-gray">
+                <div class="container">
+                    <div class="articles-content-inner">
+                        <div class="articles-content-text">
+                            <span>Jan 4, 2018 | In Culture</span>
+                            <h2>Akita Inu Dog</h2>
+                            <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
+                            <p>Donec ullamcorper nulla non metus auctor fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed posuere</p>
+                        </div>
+                        <div class="articles-content-photo">
+                            <img src="./фон_files/img-post2.png" alt="post2">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="blog">
+            <div class="container">
+                <div class="blog-head">
+                    <h2>Let's blog</h2>
+                    <h3>We love clean design and advanced digital solutions</h3>
+                </div>
+                <div class="blog-content">
+                    <div class="blog-article">
+                        <img class="blog-article-image" src="./фон_files/img-blog1.png" alt="blog1">
+                        <h3 class="blog-article-title">Fresh Summer Campaign</h3>
+                        <p class="blog-article-desc">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
+                    </div>
+                    <div class="blog-article">
+                        <img class="blog-article-image" src="./фон_files/img-blog2.png" alt="blog2">
+                        <h3 class="blog-article-title">Fresh Summer Campaign</h3>
+                        <p class="blog-article-desc">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
+                    </div>
+                    <div class="blog-article">
+                        <img class="blog-article-image" src="./фон_files/img-blog3.png" alt="blog3">
+                        <h3 class="blog-article-title">Fresh Summer Campaign</h3>
+                        <p class="blog-article-desc">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
+                    </div>
+                    <div class="blog-article">
+                        <img class="blog-article-image" src="./фон_files/img-blog1.png" alt="blog4">
+                        <h3 class="blog-article-title">Fresh Summer Campaign</h3>
+                        <p class="blog-article-desc">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="break">
+            <div class="container">
+                <div class="break-box break-box-left">
+                    <img class="break-box-image" src="./фон_files/icon-write.png" alt="icon">
+                    <p class="break-box-desc">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
+                </div>
+                <div class="break-box break-box-right">
+                    <img class="break-box-image" src="./фон_files/icon-write.png" alt="icon">
+                    <p class="break-box-desc">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
+                </div>
+            </div>
+        </section>   
+        <section class="promo">
+            <div class="container">
+                <div class="promo-inner">
+                    <div class="promo-text">
+                        <h2 class="promo-text-title">Akita Inu Dog</h2>
+                        <p class="promo-text-desc">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
+                        <ul class="promo-text-list">
+                            <li>Fully Responsive Design</li>
+                            <li>High Quality Code</li>
+                            <li>Different Headers &amp; Layout</li>
+                        </ul>
+                    </div>
+                    <div class="promo-iphone">
+                        <img src="./фон_files/phone.png" alt="psdfreebies website on phone">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="team">
+            <div class="container">
+                    <div class="team-head">
+                        <h2>Our Team</h2>
+                        <h3>Sales long tail influencer pitch release niche market</h3>
+                    </div>
+                    <div class="team-content">
+                        <div class="person">
+                            <img class="person-photo" src="./фон_files/john-snow.png" alt="John Snow CEO">
+                            <p class="person-details">John Snow <span>CEO</span></p>
+                        </div>
+                        <div class="person">
+                            <img class="person-photo" src="./фон_files/lady-sansa.png" alt="Lady Sansa WebDesigner">
+                            <p class="person-details">Lady Sansa <span>WebDesigner</span></p>
+                        </div>
+                        <div class="person">
+                            <img class="person-photo" src="./фон_files/david-smith.png" alt="David Smith Photographer">
+                            <p class="person-details">David Smith <span>Photographer</span></p>
+                        </div>
+                        <div class="person">
+                            <img class="person-photo" src="./фон_files/lady-sansa2.png" alt="Lady Sansa Photographer">
+                            <p class="person-details">Lady Sansa <span>Photographer</span></p>
+                        </div>
+                    </div>
+                </div>
+        </section>
+        <section class="contact">
+            <div class="container">
+                <div class="contact-head">
+                    <h2>We’d love to hear about your project</h2>
+                </div>
+                <form class="contact-form" name="contactForm" action="https://jakubgreziak.github.io/creativespsd/#" method="POST" novalidate="novalidate">
+                    <div class="contact-form-input">
+                        <input type="text" placeholder="Your name" id="formName" name="formName">
+                    </div>
+                    <div class="contact-form-input">
+                        <input type="email" placeholder="Your e-mail address" id="formEmail" name="formEmail">
+                    </div>
+                    <div class="contact-form-input">
+                        <input type="tel" placeholder="Your phone number" id="formPhoneNumber" name="formPhoneNumber">
+                    </div>
+                    <textarea placeholder="Message" id="formMessage" name="formMessage"></textarea>
+                    <button type="submit">Submit</button>
+                </form>
+            </div>
+        </section>
+        <footer class="footer">
+            <div class="container">
+                <div class="footer-content">
+                    <p class="footer-content-copyright">© 2016 PSDfreebies.com – All Right Reserved</p>
+                    <img class="footer-content-design" src="./фон_files/footer.png" alt="Designed by PSDFreebies.com">
+                </div>
+            </div>
+        </footer>
+        <script type="text/javascript" src="./фон_files/jquery.min.js.Без названия"></script>
+        <script type="text/javascript" src="./фон_files/jquery.validate.min.js.Без названия"></script>
+        <script type="text/javascript" src="./фон_files/script.js.Без названия"></script>
+    
+</body></html>

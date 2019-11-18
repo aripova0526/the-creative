@@ -1,0 +1,324 @@
+/*   
+Theme Name: 
+Theme URI: 
+Description: Custom Theme Development
+Author: Tushar Jadhav
+Author URI: http://www.icondice.com
+Version: 1.0
+*/
+
+/* GLOBAL
+----------------------------------------------------------------------------------------------------*/
+/**
+ * html5doctor.com Reset Stylesheet v1.6.1 (http://html5doctor.com/html-5-reset-stylesheet/)
+ * Richard Clark (http://richclarkdesign.com)
+ * http://cssreset.com
+ */
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+body {
+    line-height:1;
+}
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section {
+    display:block;
+}
+nav ul {
+    list-style:none;
+}
+blockquote, q {
+    quotes:none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content:'';
+    content:none;
+}
+a {
+    margin:0;
+    padding:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+/* change colours to suit your needs */
+ins {
+    background-color:#ff9;
+    color:#000;
+    text-decoration:none;
+}
+/* change colours to suit your needs */
+mark {
+    background-color:#ff9;
+    color:#000;
+    font-style:italic;
+    font-weight:bold;
+}
+del {
+    text-decoration: line-through;
+}
+abbr[title], dfn[title] {
+    border-bottom:1px dotted;
+    cursor:help;
+}
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+/* change border colour to suit your needs */
+hr {
+    display:block;
+    height:1px;
+    border:0;
+    border-top:1px solid #cccccc;
+    margin:1em 0;
+    padding:0;
+}
+input, select {
+    vertical-align:middle;
+}
+html{  }
+
+body {
+ 	font-family: 'Varela Round', Arial, serif;
+	font-size: 16px;
+    line-height: 100%;
+	color: #000000;
+	-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
+	-webkit-text-size-adjust: 100%;
+}
+a {
+	display:inline-block;	
+}
+
+.wrap {
+	width: 100%;
+	display: block;
+	position: relative;
+}
+.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* close commented backslash hack */
+
+li { list-style:none;}
+
+a, a:visited, a:visited {
+
+	text-decoration: none;
+	outline: 0;
+}
+
+p a, p a:visited {
+	line-height: inherit;
+}
+
+/* SWITCH BAR
+----------------------------------------------------------------------------------------------------*/
+.ft_switch_bar {
+background:#2a2a2a;
+padding:5px 50px;
+}
+.ft_col1 {
+	width:30%;
+	float:left;
+}
+.ft_col2 {
+	width:40%;
+	float:left;
+}
+.ft_col3 {
+	width:30%;
+	float:left;
+}
+.ft_logo {
+  padding: 10px 0 0 0;
+}
+.ft_logo a {
+  display: block;
+}
+.ft_logo a img{
+  display: block;
+}
+.ft_devices ul{
+	display:block;
+	text-align:center;
+	height: 50px;
+}
+.ft_devices li{
+    display: BLOCK;
+    border-right: 1px solid #3452ff;
+    padding: 15px 10px 0;
+    height: 40px;
+    float: left;
+}
+.ft_devices li:last-child {
+	border-right:none;	
+}
+.ft_devices li a{
+	padding:0 5px;	
+}
+.ft_download {
+	text-align:right;
+	padding: 5px 0;	
+}
+
+
+.btn{
+ 	border: none;
+    border-radius: 2px;
+    text-align: center;
+    color: #ffffff !important;
+    font-family: 'Varela Round', Arial, serif;
+    font-size: 16px;
+    line-height: 100%;
+    padding: 20px 50px 20px !important;
+    cursor: pointer;
+    display: block;
+    float: right;
+    text-transform: uppercase;
+}
+.btn.blue{
+  color: #ffffff;
+  background-color: #3452ff;
+  opacity: 1
+}
+.btn.blue:hover{
+	opacity: 0.9
+}
+
+
+
+.template-subcribe{
+	background:#ffffff;
+	padding:30px 15px;
+	box-shadow: 0px 1px 2px 0px rgba(0, 1, 1, 0.15);
+	border-radius:3px;
+}
+.template-subcribe h3{
+	font-size:22px;
+}
+input[type="text"].subname{
+	float:none;
+	width:100%;
+	margin:15px 0 10px;
+}
+input[type="email"].subname{
+	float:none;
+	width:100%;
+}
+.template-subcribe .btn {
+	width:100%;
+}
+.template-subcribe p{
+	font-size:14px;
+	color:#999999;
+	margin-top:5px;
+	text-align:center;
+	font-weight:300;
+}
+.contactform br{
+	display:none;
+}
+input[type="email"] span{
+	width:50%;
+	float:right;
+	display:block;
+	clear:both;
+}
+
+
+.ipad-frame-ver{
+	width: 768px;
+	border-top:5em solid #dcdcdc;
+	border-bottom:5em solid #dcdcdc;
+	border-left:4.5em solid #dcdcdc;
+	border-right:4.5m solid #dcdcdc;	
+	margin: 0 auto;
+	-webkit-border-radius: 3em;
+	-moz-border-radius: 3em;
+	border-radius: 3em;
+	text-align: center;
+}
+.ipad-frame-land{
+	width: 1024px;
+
+	border-top:3em solid #dcdcdc;
+	border-bottom:3em solid #dcdcdc;
+	border-left:6em solid #dcdcdc;
+	border-right:6em solid #dcdcdc;
+	margin: 0 auto;
+	-webkit-border-radius: 3em;
+	-moz-border-radius: 3em;
+	border-radius: 3em;
+
+	background: #333;
+}
+.smart-frame-land{
+	width: 600px;
+	height: 320px;
+	border-top:2em solid #dcdcdc;
+	border-bottom:2em solid #dcdcdc;
+	border-left:5em solid #dcdcdc;
+	border-right:5em solid #dcdcdc;
+
+	margin: 0 auto;
+	-webkit-border-radius: 3em;
+	-moz-border-radius: 3em;
+	border-radius: 3em;
+}
+.smart-frame-var{
+	width: 320px;
+	height: 580px;
+
+	border-top:5em solid #dcdcdc;
+	border-bottom:5em solid #dcdcdc;
+	border-left:3em solid #dcdcdc;
+	border-right:3em solid #dcdcdc;
+	margin: 0 auto;
+	-webkit-border-radius: 3em;
+	-moz-border-radius: 3em;
+	border-radius: 3em;
+}
+.mobile-frame{
+	width: 240px;
+	height: 500px;
+
+	border-top:3.5em solid #dcdcdc;
+	border-bottom:3.5em solid #dcdcdc;
+	border-left:1.8em solid #dcdcdc;
+	border-right:1.8em solid #dcdcdc;
+	
+	background: #dcdcdc;
+	margin: 0 auto;
+	-webkit-border-radius: 3em;
+	-moz-border-radius: 3em;
+	border-radius: 3em;
+}
